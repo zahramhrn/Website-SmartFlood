@@ -47,13 +47,6 @@ smart-flood/
 └── README.md
 ```
 
-## 🌐 Deploy ke GitHub Pages
-
-1. Push repo ini ke GitHub.
-2. Buka **Settings → Pages**.
-3. Pilih branch `main` dan folder `/ (root)`.
-4. Simpan — situs akan tersedia di `https://<username>.github.io/<nama-repo>/`.
-
 ## 📝 Catatan Data
 
 Data zona banjir, titik genangan, dan posko pengungsian pada repo ini bersifat **simulasi/contoh** untuk keperluan demo. Untuk penggunaan produksi, sambungkan ke sumber data resmi (misalnya API BPBD, BMKG, atau data spasial OpenStreetMap terkini).
