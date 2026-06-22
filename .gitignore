@@ -1,0 +1,12 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/*
+!.vscode/extensions.json
+
+# Node (if you later split JS into modules/build tooling)
+node_modules/
+dist/
+.env
