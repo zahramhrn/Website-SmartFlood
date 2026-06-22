@@ -16,7 +16,7 @@ SMART-FLOOD adalah website Sistem Informasi Geografis (SIG) berbasis web yang me
 
 ## 🛠️ Teknologi
 
-- HTML5, CSS3, JavaScript (vanilla, tanpa framework/build step)
+- HTML5, CSS, JavaScript (vanilla, tanpa framework/build step)
 - [Leaflet.js](https://leafletjs.com/) — peta interaktif
 - [Leaflet Routing Machine](https://www.liedman.net/leaflet-routing-machine/) + [OSRM](http://project-osrm.org/) — perhitungan rute
 - Basemap [CARTO](https://carto.com/) (OpenStreetMap)
